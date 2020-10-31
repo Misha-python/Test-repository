@@ -12,3 +12,5 @@ def inverse (string):
 			raise ValueError
 
 	return new
+
+print (inverse ('0'))
